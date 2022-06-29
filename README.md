@@ -1,6 +1,6 @@
-### onboard_awh
+# onboard_awh
 Repo for the onboarding session and basic web development
-# Session
+## Session
 A session for onboarding the newcomers to tinkerhub awh chapter and make aware the tinkers about
 the basic full stack web development
 
